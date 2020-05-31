@@ -7,7 +7,7 @@ For this portfolio, I have selected the following three coding samples.
 https://github.com/matbonfanti/ambercalculator
 
 Since March 2009 I have been working in the group of Prof. M. Garavelli, University
-of Bologna. In this context, been primarily responsible for the maintenance and development
+of Bologna. In this context, I have been primarily responsible for the maintenance and development
 of the Python code COBRAMM (https://site.unibo.it/cobramm), a tool that has been created
 to realize spectroscopic simulations of photo-active systems in condensed phase (e.g.
 molecules in solvent or pigments embedded in protein environments).
