@@ -1,6 +1,6 @@
 # three samples from my recent activity
 
-For this portfolio, I have selected three the following three coding samples.
+For this portfolio, I have selected the following three coding samples.
 
 ## 1. ambercalculator 
 
